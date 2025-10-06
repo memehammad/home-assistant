@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.0.0](https://github.com/memehammad/home-assistant/compare/v2.0.1...v3.0.0) (2025-10-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* overhaul theme and support HA 2025.8 ([#36](https://github.com/memehammad/home-assistant/issues/36))
+
+### Features
+
+* add automatic light/dark theme pairs ([#35](https://github.com/memehammad/home-assistant/issues/35)) ([7dcfce3](https://github.com/memehammad/home-assistant/commit/7dcfce3b78695f3e8b3195e71b636e54b1c48e31))
+* allow manually installing different accent colors ([#47](https://github.com/memehammad/home-assistant/issues/47)) ([d76d695](https://github.com/memehammad/home-assistant/commit/d76d695fb5136e40b51e0cea14d6ce6b05a868ac))
+* overhaul theme and support HA 2025.8 ([#36](https://github.com/memehammad/home-assistant/issues/36)) ([33f5f76](https://github.com/memehammad/home-assistant/commit/33f5f766dc7ca8adcf175614128eaa606cc5c84d))
+* set themes under light/dark modes ([#25](https://github.com/memehammad/home-assistant/issues/25)) ([0277ab8](https://github.com/memehammad/home-assistant/commit/0277ab8a42751bcf97c49082e4b743ec32304571))
+
+
+### Bug Fixes
+
+* invert the `color-neutral` scale ([#41](https://github.com/memehammad/home-assistant/issues/41)) ([aa2f466](https://github.com/memehammad/home-assistant/commit/aa2f466edf0d66323a7d9df4d1226315dbeb2b67))
+* style not applied to unchecked toggle button ([#27](https://github.com/memehammad/home-assistant/issues/27)) ([6edce61](https://github.com/memehammad/home-assistant/commit/6edce618f11b775b91f5a0764d8d83a1a8e2bbe2))
+* unchecked switch track colour not set ([#31](https://github.com/memehammad/home-assistant/issues/31)) ([50d5c61](https://github.com/memehammad/home-assistant/commit/50d5c610ed2ba12d7e01584af8f8d9effb9e2f70))
+
 ## [2.0.1](https://github.com/catppuccin/home-assistant/compare/v2.0.0...v2.0.1) (2025-08-30)
 
 
